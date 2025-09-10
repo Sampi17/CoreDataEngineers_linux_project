@@ -1,0 +1,1 @@
+crontab -e 0 00 * * * /home/black_ninja/core_data_engineering_projects/Scripts/etl.sh >> /home/black_ninja/core_data_engineering_projects/logs/output.log 2>&1

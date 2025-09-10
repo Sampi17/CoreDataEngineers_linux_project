@@ -1,0 +1,7 @@
+#!/bash/bin
+
+file_path="/home/black_ninja/core_data_engineering_projects/data/"
+cd file_path=""
+ls $file_path/*.csv
+
+#psql -h "$DB_HOST" -p "$DB_PORT" -U "$DB_USER" -d "$DB_NAME" -f "your_sql_file.sql"
